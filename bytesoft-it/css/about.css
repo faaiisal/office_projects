@@ -1,0 +1,206 @@
+/*-portfolio content-*/	
+.container-fluid{
+	padding-left:0 !important;
+	padding-right:0 !important;
+	}
+
+
+
+.text-content-area{
+  background: #453741 none repeat scroll 0 0;
+  margin: 0 auto 50px;
+  padding: 40px 0;
+
+  }
+.text-content-area h1{
+border-bottom: 1px dashed #fff;
+color: #fff;
+font-family: pt sans;
+font-size: 38px;
+font-weight: bold;
+margin: 0 auto 20px;
+max-width: 940px;
+text-align: center;
+text-transform: capitalize;
+padding: 15px 0px;
+	}
+.body-content-area{
+  margin: 0 auto 50px;
+  padding: 40px 0
+	}
+/*--social-icon--*/	
+.aboutus-social-icon{
+	margin: 20px 0 15px 315px;
+	
+	
+}
+.aboutus-social-icon .fa{
+	background-color: #777;
+	border: 1px solid #777777;
+	border-radius: 100%;
+	color: #fff;
+	padding: 5px;
+	text-aling:right;
+
+	}
+.aboutus-social-icon .fa-facebook{
+	font-size: 15px !important;
+	padding: 5px 8px;
+	}
+ .aboutus-social-icon .fa-twitter{
+	 padding: 5px 6px;
+	 }
+.aboutus-social-icon .fa-linkedin{
+	padding: 5px 6px;
+	}
+.aboutus-social-icon .fa-google-plus{
+	padding: 5px 3px;
+	}	
+.aboutus-social-icon .fa-vimeo{
+	padding:5px 5px;}
+
+.ourteam-content-area p{
+	font-family: open sans;
+	font-size: 12px;
+	line-height: 0.6cm;
+	margin-left: 85px;
+	text-align: justify;
+	width: 460px;
+	}
+.body-content-area {
+  background: #453741 none repeat scroll 0 0;
+  margin: 0 auto 50px;
+  padding: 40px 0;
+}
+.body-content-area h1{
+border-bottom: 1px dashed #fff;
+color: #fff;
+font-family: pt sans;
+font-size: 38px;
+font-weight: bold;
+margin: 0 auto 20px;
+max-width: 940px;
+text-align: center;
+text-transform: capitalize;
+padding: 15px 0px;
+	}
+.ourteam-section{
+	height:auto;
+	padding-left:0;
+	padding-right:0;
+	width:940px;
+	margin-bottom:55px;
+	
+	}	
+.ourteam-box-area{
+	width:210px;
+	height:auto;
+	margin:55px 20px 55px 0px;
+
+	}
+.ourteam-box-area img{
+	border: 6px solid #595959;
+	border-radius: 100%;
+	box-shadow: 0 0 0 6px #fff;
+	margin-left: 35px;
+	position: absolute;
+	width: 150px;
+	
+	
+	}	
+.teamdetails-section{
+	background-color: #d1d0d1;
+	border-radius: 25px 25px 0 0;
+	height: 275px;
+	margin-top: 65px;
+	width: 220px;
+		
+	}	
+.teamtextarea h3{
+	padding-top: 100px;
+text-align: center;
+font-size: 20px;
+font-family: open sans;
+font-weight:bold;
+color: #222;
+text-transform: uppercase;
+	}
+.teamtextarea h5{
+text-align: center;
+font-size: 10px;
+font-family: open sans;
+font-style:italic;
+color: #816075;
+text-transform: uppercase;}
+.teamtextarea p{
+font-size: 12px;
+font-family: open sans;
+color: #7c7c7c;
+text-transform:capitalize;
+text-align:justify;
+padding:0px 18px;
+
+	}	
+.teamsocialicon{
+background-color: #816075;
+padding: 20px 0;
+text-align: center;
+	}
+.teamsocialicon .fa{
+	background-color: #fff;
+border: 1px solid #fff;
+border-radius: 100%;
+color: #816075;
+padding: 5px;
+margin-left:10px;
+
+	}
+.teamsocialicon .fa-facebook{
+	font-size: 15px !important;
+	padding: 5px 8px;
+	}
+ .teamsocialicon .fa-twitter{
+	 padding: 5px 6px;
+	 }
+.teamsocialicon .fa-linkedin{
+	padding: 5px 6px;
+	}
+.teamsocialicon .fa-google-plus{
+	padding: 5px 3px;
+	}	
+.teamsocialicon .fa-vimeo{
+	padding:5px 5px;}
+/********************************  about slider  css from here **********************************************************/
+
+.home-page-partner{
+	width: 100%;
+	height: auto;
+	min-height: 255px;
+	background: #a29ba0;
+}
+
+.carousel-control {
+	padding-top:10%;
+	width:5%;
+}
+.home-page-partner h1{
+	border-bottom: 1px dashed #fff;
+	color: #fff;
+	font-size: 40px;
+	margin: 0 auto 40px;
+	padding: 15px 0;
+	text-align: center;
+}
+.carousel-control {
+	font-size: 60px;
+	padding-top: 0;
+	width: 1%;
+}
+.carousel-control.left, .carousel-control.right{
+	background: none;
+}
+.mywell img{
+	padding:0 20px!important; ;
+}
+
+/****************************************************about slider  css end here ******************************************/			

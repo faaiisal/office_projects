@@ -1,0 +1,460 @@
+/*Single Page Style From Here */
+
+.single-content{
+    font-family:"open sans" ;
+
+}
+
+.single-content p{
+    text-align: justify;
+    font-size: 12px;
+}
+.single-content h2{
+    color: #000;
+    font-family:"PT Sans";
+
+}
+
+.single-icon-nav-bar{
+    margin: 28px 0;
+
+}
+.single-icon-nav-bar a{
+    color: #000;
+    padding-right: 15px;
+
+}
+
+.single-icon-nav-bar .fa-user,
+.single-icon-nav-bar .fa-calendar-o,
+.single-icon-nav-bar .fa-comment-o,
+.single-icon-nav-bar .fa-tag{
+    color: #000;
+    padding-right: 5px;
+}
+
+
+/*Single page Sidebar From here*/
+
+.single-page-sidebar{
+    margin-top: 25px;
+}
+.single-page-sidebar h2,
+.single-page-sidebar h6,
+.single-page-sidebar p{
+    color: #453741;
+}
+
+
+.single-sidebar-search , .single-search-box{
+    width: 100%;
+
+}
+
+.search-text{
+    border: 1px solid #d7d7d7;
+    color: #59595a;
+    height: 40px;
+    padding-left: 10px;
+    width: 85%;
+}
+.custom-search-btn{
+    background: #453741 url("../images/searchiconwhite.png") no-repeat scroll center center;
+    border-radius: 0;
+    height: 40px;
+    margin-left: -5px;
+    margin-top: -3px;
+    width: 15%;
+
+}
+
+.separetor{
+    background: rgba(0, 0, 0, 0) url("../images/separetor.png") no-repeat scroll center center;
+    height: 2px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    width: 100%;
+}
+
+
+/***********************letest Post sidepar **********************/
+.leates-post-sidebar{
+    font-family: "open sans";
+
+}
+.leates-post-sidebar h1{
+    border-bottom: 1px dotted #7c7c7c;
+    font-family: "PT Sans";
+    font-size: 24px;
+    margin-bottom: 25px;
+    margin-top: 0;
+    text-align: left;
+}
+.leates-post-sidebar h1 span{
+    border-bottom: 2px solid #000;
+    display: inline-block;
+    margin: 0 auto -2px;
+    padding: 13px 0;
+    text-align: left;
+    width: auto;
+}
+
+.lspost-box{
+    height: auto;
+    margin-bottom: 25px;
+    width: 100%;
+}
+
+.lspost-box img{
+    height: auto;
+    width: 20%;
+}
+
+.ls-p-content{
+    height: auto;
+    text-align: left;
+    width: 75%;
+}
+
+.ls-p-content h2{
+    font-family: "PT Sans";
+    font-size: 16px;
+    margin-top: 0;
+}
+.sidebar-single-icon-nav-bar{}
+.sidebar-single-icon-nav-bar a{
+    color: #000;
+    font-family: open sans;
+    font-size: 12px;
+}
+
+.lspost-box ul{
+    margin: 0;
+    padding: 0;
+}
+
+.lspost-box ul li{
+    list-style: none;
+    float: left;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.lspost-box ul li img{
+    margin-right: 20px;
+}
+.lspost-box ul li a{
+    color: #000;
+    cursor: pointer;
+}
+
+.lspost-box ul li a:hover{
+    color: #2e6da4;
+    text-decoration: none;
+}
+
+
+
+/*************************************************sidebar-category****************************************/
+
+
+.sidebar-category{
+    width: 100%;
+}
+.sidebar-category h1{
+    font-size:24px ;
+    border-bottom: 1px dotted #7c7c7c;
+    font-family: "PT Sans";
+    font-size: 24px;
+    margin-bottom: 25px;
+    margin-top: 0;
+    text-align: left;
+}
+.sidebar-category h1 span{
+    border-bottom: 2px solid #000;
+    display: inline-block;
+    margin: 0 auto -2px;
+    padding: 13px 0;
+    text-align: left;
+    width: auto;
+}
+
+.category-box{
+
+}
+.category-box ul{
+    padding: 0;
+    margin: 0;
+}
+.category-box ul li{
+    list-style: outside none none;
+    margin-bottom: 10px;
+}
+
+.category-box ul li a{
+    color: #0f0f0f;
+    transition: 1s all;
+}
+
+.category-box ul li a:hover{
+    color: #28a4c9;
+}
+
+/*************************************************Archive****************************************/
+
+.archives-sidebar{
+    width: 100%;
+    height: auto;
+}
+.archives-sidebar h1{
+    font-size:24px ;
+    border-bottom: 1px dotted #7c7c7c;
+    font-family: "PT Sans";
+    font-size: 24px;
+    margin-bottom: 25px;
+    margin-top: 0;
+    text-align: left;
+}
+.archives-sidebar h1 span{
+    border-bottom: 2px solid #000;
+    display: inline-block;
+    margin: 0 auto -2px;
+    padding: 13px 0;
+    text-align: left;
+    width: auto;
+}
+.archives-list{}
+.archives-list li{
+    list-style: none;
+}
+.previews-btn{
+    background: #b7b7b7 none repeat scroll 0 0;
+    border-radius: 10px 0 0 10px;
+    color: #fff;
+    cursor: pointer;
+    height: 30px;
+    line-height: 35px;
+    padding: 7px 15px;
+
+}
+.next-btn{
+    background: #b7b7b7;
+    color: #fff;
+    height: 30px;
+    line-height: 35px;
+    border-radius: 0px 10px 10px 0px;
+    cursor: pointer;
+    padding: 7px 15px;
+}
+
+.Social-icon-bg{
+    background: #b7b7b7 none repeat scroll 0 0;
+    border-radius: 10px;
+    color: #fff;
+    height: 35px;
+    line-height: 20px;
+    margin: 0 auto;
+    padding: 4px 1px 1px 44px;
+}
+.Social-icon-bg .fa-facebook,
+.Social-icon-bg .fa-twitter,
+.Social-icon-bg .fa-linkedin,
+.Social-icon-bg .fa-google-plus,
+.Social-icon-bg .fa-youtube-play{
+    border-radius: 100%;
+    color: #FFF;
+    padding: 5px 5px;
+    background: #453741;
+}
+
+.Social-icon-bg .fa-facebook{
+    padding: 5px 9px;
+}
+
+.Social-icon-bg .fa-google-plus{
+    padding: 5px 3px;
+}
+
+/*********************************************************related-post-area css **************************************/
+
+.related-post-area,.relatedpost-content{
+    width: 100%;
+    height: auto;
+
+}
+
+.related-post-area h1{
+    font-size:24px ;
+    border-bottom: 1px dotted #7c7c7c;
+    font-family: "PT Sans";
+    font-size: 24px;
+    margin-bottom: 25px;
+    margin-top: 0;
+    text-align: left;
+}
+
+.related-post-area h1 span{
+
+    border-bottom: 2px solid #000;
+    display: inline-block;
+    margin: 0 auto -2px;
+    padding: 13px 0;
+    text-align: left;
+    width: auto;
+
+}
+.r-post-content{
+    background: #eae7e7 none repeat scroll 0 0;
+    margin-bottom: 30px;
+    margin-right: 5%;
+    min-height: 100px;
+    padding-top: 15px;
+    width: 45%;
+}
+
+.r-post-content img{
+    margin: 0;
+    width: 25%;
+    height: auto;
+}
+
+.rel-post-article{
+    width: 70%;
+
+}
+.rel-post-article h2{
+
+    font-family: 'PT Sans', sans-serif;
+    margin-top: 0;
+    font-size: 16px;
+}
+
+.rel-post-article h2 a{
+    color: #761c19;
+
+
+}
+
+.rel-post-article h2 a:hover{
+    color:#000;
+    text-decoration: none;
+
+
+}
+
+/*********************************************Single page Comment area**************************************************/
+.single-comment-area{
+    width: 100%;
+    height:auto;
+
+}
+.single-comment-area h1{
+    font-size:24px ;
+    border-bottom: 1px dotted #7c7c7c;
+    font-family: "PT Sans";
+    font-size: 24px;
+    margin-bottom: 25px;
+    margin-top: 0;
+    text-align: left;
+}
+
+.single-comment-area h1 span{
+    border-bottom: 2px solid #000;
+    display: inline-block;
+    margin: 0 auto -2px;
+    padding: 13px 0;
+    text-align: left;
+    width: auto;
+}
+
+
+
+.first-comment-area{
+    width: 100%;
+    height: auto;
+
+}
+
+
+.com-img{
+    width: 15%;
+    height: auto;
+}
+.comment{
+    width: 85%;
+    height: auto;
+    font-family: "open sans";
+    font-size:12px ;
+}
+
+.comment h3{
+    float: left;
+    margin-top: 0;
+    width: 50%;
+    font-size: 15px;
+
+}
+
+.commentdate-icon-nav-bar{
+    float: right;
+    width: 30%;
+}
+.commentdate-icon-nav-bar a{
+    color: #000;
+    padding-left: 15px;
+    text-align: right;
+}
+
+.comment p{
+    float: left;
+    font-size: 10px;
+    text-align: justify;
+    width: 100%;
+}
+.comment-reply{
+    width: 85%;
+    height: auto;
+}
+.comment-reply .commentdate-icon-nav-bar{
+    width: 40%;
+}
+
+/*********************************************comment-form Css ***********************************/
+.comment-form{
+    width: 85%;
+    height: auto;
+}
+
+#com-form input{
+    background: #efefef none repeat scroll 0 0;
+    border: 1px solid #000;
+    float: right;
+    height: auto;
+    min-height: 40px;
+    width: 80%;
+    padding-left: 10px;
+}
+
+#com-form textarea{
+    background: #efefef none repeat scroll 0 0;
+    border: 1px solid #000;
+    float: right;
+    min-height: 160px;
+    width: 80%;
+    padding-left: 10px;
+    height: auto;
+
+}
+#com-form label{
+    line-height: 30px;
+    padding: 10px;
+}
+
+.com-btn{
+    background: #453741 none repeat scroll 0 0 !important;
+    color: #fff !important;
+    height: auto !important;
+    margin-top: 20px !important;
+    min-height: 40px !important;
+    width: 29% !important;
+}

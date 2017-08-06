@@ -1,0 +1,120 @@
+.contact-page-top{
+    width: 100%;
+    height: auto;
+    background: #453741;
+    min-height: 130px;
+}
+.contact-page-top h1{
+    border-bottom: 1px dashed #fff;
+    color: #fff;
+    line-height: 60px;
+    text-align: center;
+}
+.contact-page-top h1 span{
+    border-bottom: 3px solid #fff;
+    margin: 0 auto;
+    padding: 5px 30px;
+    width: auto;
+}
+
+.contact-page-main{
+    width: 100%;
+    height: auto;
+}
+.cm-content{}
+.cm-content h1{
+    text-align: center;
+    font-size: 30px;
+    color: #000000;
+}
+.cm-content p{
+    font-size: 12px;
+}
+
+.cm-contact-form{
+    margin-bottom: 50px;
+    margin-top: 50px;
+
+}
+
+/*Contact page Form Style*/
+.con-fname,.con-email{
+    float: left;
+    height: 35px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    padding-left: 5px;
+    width: 48%;
+}
+.con-lname,.con-phonel{
+    float: left;
+    height: 35px;
+    margin-bottom: 20px;
+    padding-left: 5px;
+    width: 48%;
+}
+.con-massge{
+    height: auto;
+    margin-bottom: 20px;
+    min-height: 120px;
+    width: 99%;
+}
+.con-btn{
+    background: #453741 none repeat scroll 0 0;
+    border: medium none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: bold;
+    height: auto;
+    min-height: 35px;
+    width: 99%;
+}
+.cont-sidebar-icon{
+    width: 10%;
+    float: left;
+}
+
+.cont-sidebar-icon .fa-phone, .cont-sidebar-icon .fa-paper-plane, .cont-sidebar-icon .fa-firefox, .cont-sidebar-icon .fa-map-marker{
+    font-size: 18px;
+    color: #7c7c7c;
+}
+.cont-sidebar-content{
+    width: 80%;
+    float: left;
+    text-align: left;
+}
+.contact-sidebar{
+    margin-top: 30px;
+}
+.con-phone-sidebar h4{
+    font-size: 14px;
+    color: #7c7c7c;
+}
+.con-phone-sidebar p{
+    color: #7c7c7c;
+    font-family: pt sans;
+    font-size: 12px;
+    padding-left: 36px;
+}
+
+.con-phone-sidebar .fa-vimeo{
+    border: 1px solid #7c7c7c;
+    border-radius: 100%;
+    color: #7c7c7c;
+    font-size: 15px !important;
+    font-weight: normal !important;
+    padding: 5px;
+}
+.con-phone-sidebar .fa-vimeo:hover{
+    background: #453741;
+    color: #fff;
+}
+
+.contact-page-google-map{
+    width: 100%;
+    height: auto;
+}
+
+#form-enq{
+    display: none;
+}
